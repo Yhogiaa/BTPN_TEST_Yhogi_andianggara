@@ -3,6 +3,7 @@
 
 no.1 
 
+    npm init -y
     npx express-generator
     npm install
 
